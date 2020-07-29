@@ -42,7 +42,7 @@ PLATFORMS
 
 DEPENDENCIES
   dotenv
-  rspec
+  rspec (~> 3.0)
   telegram_bot
 
 BUNDLED WITH
