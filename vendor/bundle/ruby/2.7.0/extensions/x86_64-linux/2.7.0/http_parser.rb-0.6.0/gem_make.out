@@ -1,0 +1,16 @@
+current directory: /home/dickens/Desktop/History-news-bot/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/home/dickens/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/dickens/.rvm/rubies/ruby-2.7.0/lib/ruby/site_ruby/2.7.0 -r ./siteconf20200729-5329-1oktpkc.rb extconf.rb
+creating Makefile
+
+current directory: /home/dickens/Desktop/History-news-bot/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /home/dickens/Desktop/History-news-bot/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/dickens/Desktop/History-news-bot/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -m 0755 ruby_http_parser.so ./.gem.20200729-5329-1d5vz3e
