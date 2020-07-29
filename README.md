@@ -14,7 +14,6 @@ In this project, am building a History bot that provide the users with world's l
 
 ## Getting Started
 * git clone https://github.com/DickensJuma/Capstone-project-telegram-bot.git 
-* Run **gem install telegram-bot-ruby**
 * Run **bundle install** -> to install the dependencies
 * Run bin/main.rb -> to run the program
 * Run **gem install rspec** -> to install rspec
@@ -28,7 +27,7 @@ In this project, am building a History bot that provide the users with world's l
 
 ## Author
 
-👤 **Ritta Buyaki**
+👤 **DickensJuma**
 
 - Github: [@DickensJuma](https://github.com/DickensJuma)
 - Twitter: [@juma_dickens](https://twitter.com/juma_dickens)
